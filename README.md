@@ -1,0 +1,1 @@
+ce depot est créé pour l'appréhension des connaissances sur git et github
